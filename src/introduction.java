@@ -171,7 +171,7 @@ public class introduction {
         System.out.println(cars.length);
 
         //adding new index
-        String[] cars = new String[4];
+        String[] cars1 = new String[4];
 
         //loop through an array
         for (int i = 0; i < cars.length; i++) {
@@ -190,7 +190,7 @@ public class introduction {
         System.out.println(myNumbers[1][2]);
 
         //overwriting an element
-        int[][] myNumbers = { {1, 4, 2}, {3, 6, 8} };
+        int[][] myNumberss = { {1, 4, 2}, {3, 6, 8} };
         myNumbers[1][2] = 9;
         System.out.println(myNumbers[1][2]);
 
